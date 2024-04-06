@@ -8,7 +8,7 @@ The input format is a CSV file which contains the Name, Roll Number, Department,
 **Output Format:**
 The output must contain the file student_solution(rollnumber).py
 
-**Features:**</br>
+# **Features:**</br>
 **StudentRecord Class:** Defines a basic structure for student records, including attributes for student name and roll number.</br>
 **Node Class:** Defines a node structure for linked lists.</br>
 **Entity Class:** Represents a generic entity with a name and an iterator.</br>
@@ -17,14 +17,14 @@ The output must contain the file student_solution(rollnumber).py
 **EntityIterator Class: **(Incomplete) A class to iterate through entities (Not fully implemented).</br>
 **read_input_file() Function:** Reads student records from an input file and populates the entity management system.</br>
 
-**How to Use:**</br>
+# **How to Use:**</br>
 Ensure you have Python installed on your system.</br>
 Download the script (entity_management.py) to your local machine.</br>
 Prepare an input file with student records in the following format: StudentName,RollNumber,Entity1,Entity2,....so on</br>
 Run the script and provide the path to the input file as an argument.</br>
 The script will read the input file, create entities, and populate student records accordingly.
 
-**Note:**</br>
+# **Note:**</br>
 This script is a demonstration and may require further enhancements and error handling for production use.</br>
 The EntityIterator class is partially implemented and can be extended for iterating through entities.</br>
 Feel free to modify and extend the script based on your requirements.</br>
