@@ -22,3 +22,10 @@ Ensure you have Python installed on your system.</br>
 Download the script (entity_management.py) to your local machine.</br>
 Prepare an input file with student records in the following format: StudentName,RollNumber,Entity1,Entity2,....so on</br>
 Run the script and provide the path to the input file as an argument.</br>
+The script will read the input file, create entities, and populate student records accordingly.
+
+**Note:**</br>
+This script is a demonstration and may require further enhancements and error handling for production use.</br>
+The EntityIterator class is partially implemented and can be extended for iterating through entities.</br>
+Feel free to modify and extend the script based on your requirements.</br>
+For any issues or suggestions, please feel free to raise them in the repository.</br>
