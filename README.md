@@ -2,6 +2,12 @@
 
 This Python script demonstrates a simple entity management system using classes and data structures like linked lists. The system primarily focuses on managing student records within different entities.
 
+**Input format:**
+The input format is a CSV file which contains the Name, Roll Number, Department, Course, Hostel and Club information about the students.
+
+**Output Format:**
+The output must contain the file student_solution(rollnumber).py
+
 **Features:**</br>
 **StudentRecord Class:** Defines a basic structure for student records, including attributes for student name and roll number.</br>
 **Node Class:** Defines a node structure for linked lists.</br>
