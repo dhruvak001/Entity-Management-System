@@ -15,7 +15,7 @@ The output must contain the file student_solution(rollnumber).py
 - **StudentPortfolio Class:** Inherits from Entity and manages student records using a linked list.</br>
 - **LinkedList Class:** Inherits from Entity and provides basic linked list operations to manage students.</br>
 - **EntityIterator Class:** (Incomplete) A class to iterate through entities (Not fully implemented).</br>
-- **read_input_file() Function:** Reads student records from an input file and populates the entity management system.
+- **read_input_file Function:** Reads student records from an input file and populates the entity management system.
 
 ## **How to Use:**</br>
 - Ensure you have Python installed on your system.</br>
