@@ -20,7 +20,7 @@ The output must contain the file student_solution(rollnumber).py
 ## **How to Use:**</br>
 - Ensure you have Python installed on your system.</br>
 - Download the script (entity_management.py) to your local machine.</br>
-- Prepare an input file with student records in the following format: StudentName,RollNumber,Entity1,Entity2 ... so on</br>
+- Prepare an input file with student records in the following format: StudentName, RollNumber, Entity1, Entity2 ... so on</br>
 - Run the script and provide the path to the input file as an argument.</br>
 - The script will read the input file, create entities, and populate student records accordingly.
 
